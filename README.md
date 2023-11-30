@@ -1,3 +1,6 @@
+
+![demo](https://github.com/mervebalcii/exchange-rate-calculater-vue.js/assets/77460192/dd835313-e98d-4263-b1f9-98972b4d1c19)
+
 # exchange-rate-calculater-v1
 
 ## Project setup
